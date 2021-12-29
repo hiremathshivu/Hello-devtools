@@ -1,5 +1,7 @@
 # Hello-devtools
 Introduction to Devtools
 Introduction to Devtools 
-checking commits
+checking commit
 checking in termina
+
+
