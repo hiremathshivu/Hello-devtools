@@ -1,5 +1,7 @@
 # Hello-devtools
+Introduction to Devtools
 Introduction to Devtools 
-checking commits
-## Git hub class
+checking commit
+checking in termina
+
 
